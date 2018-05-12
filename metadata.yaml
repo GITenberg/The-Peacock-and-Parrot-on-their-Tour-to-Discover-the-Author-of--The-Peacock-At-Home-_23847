@@ -1,0 +1,27 @@
+_repo: The-Peacock-and-Parrot-on-their-Tour-to-Discover-the-Author-of--The-Peacock-At-Home-_23847
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Birds -- Juvenile poetry'
+- !lcsh 'Children''s poetry'
+title: The Peacock and Parrot, on their Tour to Discover the Author of "The Peacock
+  At Home"
+url: http://www.gutenberg.org/ebooks/23847
